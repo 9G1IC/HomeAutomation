@@ -72,11 +72,7 @@ const char atcommand5 [] PROGMEM ="at+cmgd=1,4";
 const char atcommand6 [] PROGMEM ="atd";
 const char atcommand7 [] PROGMEM ="at";
 
-const char messageDestination [] PROGMEM ="0209595962";
-//const char messageDestination [] PROGMEM ="0269080034";
-//const char messageDestination [] PROGMEM ="0542651740";
-//const char messageDestination [] PROGMEM ="0203753972";
-//const char messageDestination [] PROGMEM ="0203844262";
+const char messageDestination [] PROGMEM ="+233204244772";
 const char hiddenCommand1 [] PROGMEM ="DUMP";
 const char ring [] PROGMEM ="RING";
 const char cmti [] PROGMEM ="CMTI";
